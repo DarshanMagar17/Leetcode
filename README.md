@@ -10,6 +10,7 @@ My journey of solving leetcode problems to strengthen problem-solving skills, DS
 | [0011-container-with-most-water](https://github.com/DarshanMagar17/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DarshanMagar17/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DarshanMagar17/Leetcode/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DarshanMagar17/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ My journey of solving leetcode problems to strengthen problem-solving skills, DS
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DarshanMagar17/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DarshanMagar17/Leetcode/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DarshanMagar17/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
