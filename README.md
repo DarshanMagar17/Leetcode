@@ -13,6 +13,7 @@ My journey of solving leetcode problems to strengthen problem-solving skills, DS
 | [0035-search-insert-position](https://github.com/DarshanMagar17/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/DarshanMagar17/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarshanMagar17/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/DarshanMagar17/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DarshanMagar17/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DarshanMagar17/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/DarshanMagar17/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -46,4 +47,8 @@ My journey of solving leetcode problems to strengthen problem-solving skills, DS
 | ------- |
 | [0066-plus-one](https://github.com/DarshanMagar17/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/DarshanMagar17/Leetcode/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/DarshanMagar17/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
