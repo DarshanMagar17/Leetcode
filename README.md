@@ -12,6 +12,7 @@ My journey of solving leetcode problems to strengthen problem-solving skills, DS
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DarshanMagar17/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DarshanMagar17/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/DarshanMagar17/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/DarshanMagar17/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarshanMagar17/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DarshanMagar17/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DarshanMagar17/Leetcode/tree/master/0189-rotate-array) |
@@ -27,6 +28,7 @@ My journey of solving leetcode problems to strengthen problem-solving skills, DS
 | ------- |
 | [0011-container-with-most-water](https://github.com/DarshanMagar17/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DarshanMagar17/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/DarshanMagar17/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/DarshanMagar17/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DarshanMagar17/Leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
@@ -51,4 +53,16 @@ My journey of solving leetcode problems to strengthen problem-solving skills, DS
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DarshanMagar17/Leetcode/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DarshanMagar17/Leetcode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DarshanMagar17/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DarshanMagar17/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
