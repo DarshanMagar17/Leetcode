@@ -15,6 +15,7 @@ My journey of solving leetcode problems to strengthen problem-solving skills, DS
 | [0066-plus-one](https://github.com/DarshanMagar17/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DarshanMagar17/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarshanMagar17/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/DarshanMagar17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DarshanMagar17/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DarshanMagar17/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DarshanMagar17/Leetcode/tree/master/0189-rotate-array) |
@@ -26,6 +27,7 @@ My journey of solving leetcode problems to strengthen problem-solving skills, DS
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DarshanMagar17/Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/DarshanMagar17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/DarshanMagar17/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -89,4 +91,8 @@ My journey of solving leetcode problems to strengthen problem-solving skills, DS
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DarshanMagar17/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DarshanMagar17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
