@@ -21,6 +21,7 @@ My journey of solving leetcode problems to strengthen problem-solving skills, DS
 | [0189-rotate-array](https://github.com/DarshanMagar17/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DarshanMagar17/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/DarshanMagar17/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/DarshanMagar17/Leetcode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DarshanMagar17/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DarshanMagar17/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -47,6 +48,7 @@ My journey of solving leetcode problems to strengthen problem-solving skills, DS
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DarshanMagar17/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DarshanMagar17/Leetcode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/DarshanMagar17/Leetcode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
